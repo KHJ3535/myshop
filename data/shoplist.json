@@ -1,0 +1,275 @@
+{
+    "shoplist" : [
+        {   
+            "img":"images/001.jpg",
+            "title":"라타스퀘어원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/002.jpg",
+            "title":"에이렌플리츠원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/003.jpg",
+            "title":"엔페플럼자켓세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/004.jpg",
+            "title":"브이더블벨트원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/005.jpg",
+            "title":"엠마스퀘어자켓세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/006.jpg",
+            "title":"플라워진주7부원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/007.jpg",
+            "title":"브이더블벨트원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/008.jpg",
+            "title":"엠마스퀘어자켓세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/009.jpg",
+            "title":"플라워진주7부원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/010.jpg",
+            "title":"엔씨카라자켓원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/011.jpg",
+            "title":"라듀트위트치마세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/012.jpg",
+            "title":"에린카라자켓팬츠세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/013.jpg",
+            "title":"포엘벨트자켓팬츠세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/014.jpg",
+            "title":"크리스셔링원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/0015.jpg",
+            "title":"리엔지페플럼원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/0016.jpg",
+            "title":"체론더블자켓원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/017.jpg",
+            "title":"오즈진주플레어원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/018.jpg",
+            "title":"더블스퀘어원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/019.jpg",
+            "title":"헤이즈트위드세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/020.jpg",
+            "title":"카라더블자켓원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/021.jpg",
+            "title":"진주페플럼퍼프블라우스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/022.jpg",
+            "title":"슬로벤자켓세트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/023.jpg",
+            "title":"위즈카라트위드원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/024.jpg",
+            "title":"러브트위드페플럼자켓",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/025.jpg",
+            "title":"리샤배색트위드원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/026.jpg",
+            "title":"나디아트위드원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/027.jpg",
+            "title":"벨마샤틴훌원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/028.jpg",
+            "title":"앨피배색니트",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/029.jpg",
+            "title":"진주트위드하프자켓",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        },
+        {   
+            "img":"images/030.jpg",
+            "title":"몽블랑프릴벨트원피스",
+            "color":["black","pink","gray"],
+            "delprice":"71,000원",
+            "saleprice":"63,900원",
+            "content":"미니 or 미디 원하시는 무드로 초이스 해보세요~♡ 여리미와 우아함 둘다 소유된 원피스 !",
+            "news":["신상10%", "핫딜할인5%"]
+        }
+
+    ]
+}
